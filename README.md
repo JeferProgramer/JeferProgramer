@@ -46,8 +46,10 @@
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'>
  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/webpack.svg'>
 </div>
-
+<div style="display: flex; flex-direction:row;">
 <h2> Connect with me </h2>
+<a href = 'https://www.linkedin.com/in/jeferson-david-ca%C3%B1on-melo-796629124/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+</div>
 
 ![Metrics](https://metrics.lecoq.io/jeferProgramer?template=classic&base.indepth=false&base.hireable=false&config.timezone=America%2FBogota)
  
