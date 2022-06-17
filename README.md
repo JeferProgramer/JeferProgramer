@@ -19,7 +19,7 @@
 
 - 👯 Estoy buscando colaborar en proyectos web donde puede desempeñar los dos o un solo rol 
 
--Tengo conocimientos en react redux javascript typescript npm webapck git gihub sass html css bootstrap mongo chakra sqlserver mysql postgres
+-Tengo conocimientos en react redux javascript typescript npm webapck git gihub sass html css bootstrap mongo chakra sqlserver mysql postgres, sequalize orm
 <div style="display: flex; flex-direction:row;">
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> 
