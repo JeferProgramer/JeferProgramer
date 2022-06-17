@@ -8,7 +8,7 @@
 <div size='20px'> Full Stack Developer y estudiante avanzado de la carrera de Ingeniería de Software
 📫 Si quieres intercambiar info, o preguntarme algo no dudes en contactarme. Mi mail es: jefer.talento.11@gmail.com y mi Linkedin: jefersi-cañon LinkdeIn
  
-⚡ Hobbies: Me gusta mucho jugar a los videojuegos , ver peliculas o series en ingles y tratar de entender jejeje  😜.
+⚡ Hobbies: Me gusta mucho jugar a los videojuegos , ver peliculas o series en ingles y hacer proyectos web  😜.
 </div>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
