@@ -15,7 +15,7 @@
 
 - 🔭 Estoy trabajando en el proyecto final para terminar el bootcamp full-stack henry
 
-- 🌱 Estoy prendiendo constastemente tecnologias nuevas como chakra 
+- 🌱 Estoy prendiendo constastemente tecnologias nuevas demandadas en la industria 
 
 - 👯 Estoy buscando colaborar en proyectos web donde puede desempeñar los dos o un solo rol 
 
