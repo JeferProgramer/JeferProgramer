@@ -13,8 +13,6 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 Estoy trabajando en el proyecto final para terminar el bootcamp full-stack henry
-
 - 🌱 Estoy prendiendo constastemente tecnologias nuevas demandadas en la industria 
 
 - 👯 Estoy buscando colaborar en proyectos web donde puede desempeñar los dos o un solo rol 
