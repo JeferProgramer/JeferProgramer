@@ -52,10 +52,7 @@
 </p>
 </div>
 
-![Metrics](https://metrics.lecoq.io/jeferProgramer?template=classic&base.indepth=false&base.hireable=false&config.timezone=America%2FBogota)
-<h4 align="center">Visitor's :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{JeferProgramer}/count.svg" alt="bryancpineda :: Visitor's Count" /></p>
+![Metrics](https://metrics.lecoq.io/jeferProgramer?template=classic&base.indepth=false&base.hireable=false&config.timezone=America%2FBogota
  
 <br>
 <footer align='center'><p>&copy; All Rights Reserved</p></footer>
