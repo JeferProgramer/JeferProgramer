@@ -36,7 +36,6 @@ const about = {
 
 - 📄 Desde pequeño me he interesado mucho por la tecnología y el desarrollo empeze a las 14 años ha dar mis primeros pasos en html , dada mi pasion al finalizar mi etapa escolar decidi entrar a estudiar ingenieria de software , en donde empeze con bases como pseint para mejorar mi logica , luego programacion orientada objetos , estructuras de datos , bases de datos , deespues desarrollo web con html y css , php , javascript , ademas de entender el flujo del software como ciclo de vida del software , patrones de diseño, requirimientos etc.. , despues de 4 meses en el bootcamp intensivo de henry web full-stack donde lleve todos mis conocimientos a otro nivel , aprendiendo las tecnologías mas demandadas , convirtiéndome en un mejor programador tanto técnico Como habilidades blandas
 
--Tengo conocimientos en react redux javascript typescript npm webapck git gihub sass html css bootstrap mongo chakra sqlserver mysql postgres, sequalize orm
 <div style="display: flex; flex-direction:row;">
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> 
@@ -60,6 +59,8 @@ const about = {
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/webpack.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/npm.svg'> 
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'>
+<img width ='32px' src ='https://www.svgrepo.com/show/331488/mongodb.svg'>
+<img width ='32px' src ='https://pbs.twimg.com/profile_images/1509802359383367691/R0psIpR4_400x400.jpg'>
 </div>
 <div style="display: flex; flex-direction:row;">
 <h3 align="left">Connect with me:</h3>
