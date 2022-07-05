@@ -62,6 +62,28 @@ const about = {
 <img width ='32px' src ='https://www.svgrepo.com/show/331488/mongodb.svg'>
 <img width ='32px' src ='https://pbs.twimg.com/profile_images/1509802359383367691/R0psIpR4_400x400.jpg'>
 </div>
+
+## :pushpin: Mis Projectos
+
+<h3>Terapeando</h3>
+<p>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/home.png"></a>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/catalogo.png"></a>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/tablaordenes.png"></a>
+</p>
+<p>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/carrito.png"></a>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/reviews.png"></a>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/average.png"></a>
+</p>
+
+<h3>App Videogames</h3>
+<p>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/tabla.jpg"></a>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/nuevoprod.png"></a>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/imagen.png"></a>
+</p> 
+&nbsp;
 <div style="display: flex; flex-direction:row;">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
