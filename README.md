@@ -67,14 +67,12 @@ const about = {
 
 <h3>Terapeando</h3>
 <p>
-  <a><img width='300px' src="https://user-images.githubusercontent.com/94813118/177249911-0f954ae7-da3a-4b22-8c42-619a4824b203.png"></a>
-  <a><img width='300px' src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/catalogo.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/tablaordenes.png"></a>
-</p>
-<p>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/carrito.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/reviews.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/average.png"></a>
+  <a><img width='300px' src="https://user-images.githubusercontent.com/94813118/177249931-50817dc0-0a4c-4168-bed1-8d82f34fba6e.png"></a>
+  <a><img width='300px' src="https://user-images.githubusercontent.com/94813118/177249975-ce064b81-c4c2-4c6b-8679-5f82df6d4e58.png"></a>
+  <a><img width='300px' src="https://user-images.githubusercontent.com/94813118/177250011-02107ad4-41fa-42cf-9ee0-ce77fff4e68c.png"></a>
+  <a><img width='300px' src="https://user-images.githubusercontent.com/94813118/177249946-739ffe29-55a6-48bf-bb6b-467f1cf695b6.png"></a>
+  <a><img width='300px' src="https://user-images.githubusercontent.com/94813118/177249997-5ea6a1b8-2311-4fa5-9d57-18a859fa737f.png"></a>
+  <a><img width='300px' src="https://user-images.githubusercontent.com/94813118/177250067-49d70e65-8d6b-4c2e-83bd-783d3140b620.png"></a>
 </p>
 
 <h3>App Videogames</h3>
