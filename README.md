@@ -1,17 +1,33 @@
 <div align="center">
 </div>
 
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jeferProgramer.jeferProgramer)
-<img src="https://github.com/JeferProgramer/JeferProgramer/blob/main/full-stack.gif alt="full-stack"/>
-
 </p>
 <div size='20px'>
  <h3 align="center">
   Hola👋, Soy Jeferson Cañon colombiano amante de los videojuegos y la tecnología. Actualmente estoy enfocado en el desarrollo web full stack, sistemas, metodologías AGILE, transformación digital y aprender nuevas tecnologías para explotarlas. ¡¡¡Bienvenido!!!
  </h3>
+ <div align='center'>
+   <img src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif" alt="full-stack" align="center"/>
+ </div>
+ 
+ ```javascript
+const about = {
+   code: [Javascript, Typescript, HTML, CSS, Mongoose],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Redux"],
+         css: ["Bootstrap", "Sass"]
+      },
+      backEnd: {
+         js: ["Node", "Express","JWT"]
+      },
+      databases: ["MongoDB", "PostgreSQL", "SqlLite", "MySql", "SqlServer"],
+   },
+};
+```
 </div>
-- 🌱 Actualmente estoy aprendiendo **React Native, Java, Springboot**.
+- 🌱 Actualmente estoy aprendiendo **React Native, Java WEB, Springboot**.
 
 - 💬 Pregúntame sobre **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, OAuth, TypeScript, Sequelize, Passport , JWT**.
 
@@ -48,11 +64,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/jeferson-david-cañon" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bryancamilopineda/" height="30" width="40" /></a>
-<a href="https://fb.com/bryancamilo.pinedalopera/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/bryancamilo.pinedalopera/" height="30" width="40" /></a>
+<a href="" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/bryancamilo.pinedalopera/" height="30" width="40" /></a>
 </p>
+ ![Metrics](https://metrics.lecoq.io/jeferProgramer?template=classic&base.indepth=false&base.hireable=false&config.timezone=America%2FBogota
 </div>
-
-![Metrics](https://metrics.lecoq.io/jeferProgramer?template=classic&base.indepth=false&base.hireable=false&config.timezone=America%2FBogota
- 
-<br>
-<footer align='center'><p>&copy; All Rights Reserved</p></footer>
