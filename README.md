@@ -86,7 +86,6 @@ const about = {
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jeferson-david-cañon/" target="_blank"><img width='5%'src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bryancamilopineda/"/></a>
- <a href="https://www.linkedin.com/in/wanda-trinidad-cirone/" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/linkedin-icon.png"> 
 <a href="mailto:jefer.talento.11@gmail.com" ><img width="5%" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg">
 </p>
 </div>
