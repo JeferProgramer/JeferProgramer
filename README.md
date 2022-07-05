@@ -85,7 +85,7 @@ const about = {
 <div style="display: flex; flex-direction:row;">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/jeferson-david-cañon" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bryancamilopineda/" height="30" width="40" /></a>
-<a href="" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/bryancamilo.pinedalopera/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/jeferson-david-cañon" target="_blank"><img width='5%'src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bryancamilopineda/"/></a>
+<a href="mailto:jefer.talento.11@gmail.com" ><img width="5%" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg">
 </p>
 </div>
