@@ -67,19 +67,19 @@ const about = {
 
 <h3>Terapeando</h3>
 <p>
-  <a><img width='300px' src="https://user-images.githubusercontent.com/94813118/177249931-50817dc0-0a4c-4168-bed1-8d82f34fba6e.png"></a>
-  <a><img width='300px' src="https://user-images.githubusercontent.com/94813118/177249975-ce064b81-c4c2-4c6b-8679-5f82df6d4e58.png"></a>
-  <a><img width='300px' src="https://user-images.githubusercontent.com/94813118/177250011-02107ad4-41fa-42cf-9ee0-ce77fff4e68c.png"></a>
-  <a><img width='300px' src="https://user-images.githubusercontent.com/94813118/177249946-739ffe29-55a6-48bf-bb6b-467f1cf695b6.png"></a>
-  <a><img width='300px' src="https://user-images.githubusercontent.com/94813118/177249997-5ea6a1b8-2311-4fa5-9d57-18a859fa737f.png"></a>
-  <a><img width='300px' src="https://user-images.githubusercontent.com/94813118/177250067-49d70e65-8d6b-4c2e-83bd-783d3140b620.png"></a>
+  <a><img width='250px' src="https://user-images.githubusercontent.com/94813118/177249931-50817dc0-0a4c-4168-bed1-8d82f34fba6e.png"></a>
+  <a><img width='250px' src="https://user-images.githubusercontent.com/94813118/177249975-ce064b81-c4c2-4c6b-8679-5f82df6d4e58.png"></a>
+  <a><img width='250px' src="https://user-images.githubusercontent.com/94813118/177250011-02107ad4-41fa-42cf-9ee0-ce77fff4e68c.png"></a>
+  <a><img width='250px' src="https://user-images.githubusercontent.com/94813118/177249946-739ffe29-55a6-48bf-bb6b-467f1cf695b6.png"></a>
+  <a><img width='250px' src="https://user-images.githubusercontent.com/94813118/177249997-5ea6a1b8-2311-4fa5-9d57-18a859fa737f.png"></a>
+  <a><img width='250px' src="https://user-images.githubusercontent.com/94813118/177250067-49d70e65-8d6b-4c2e-83bd-783d3140b620.png"></a>
 </p>
 
 <h3>App Videogames</h3>
 <p>
-  <a><img width='300px' src="https://user-images.githubusercontent.com/97969138/174117831-67bacd62-fe94-4c2d-a081-5950b627475f.png"></a>
-  <a><img width='300px' height='150px' src="https://user-images.githubusercontent.com/97969138/174120878-5accfdc5-3d59-48b8-bd3f-cd6d0ebdb7f8.png"></a>
-  <a><img width='300px' height='150px' src="https://user-images.githubusercontent.com/97969138/174120370-0bdddb9e-d86c-4b87-9a16-cbe496d09960.png"></a>
+  <a><img width='250px' src="https://user-images.githubusercontent.com/97969138/174117831-67bacd62-fe94-4c2d-a081-5950b627475f.png"></a>
+  <a><img width='250px' height='150px' src="https://user-images.githubusercontent.com/97969138/174120878-5accfdc5-3d59-48b8-bd3f-cd6d0ebdb7f8.png"></a>
+  <a><img width='250px' height='150px' src="https://user-images.githubusercontent.com/97969138/174120370-0bdddb9e-d86c-4b87-9a16-cbe496d09960.png"></a>
 </p> 
 &nbsp;
 <div style="display: flex; flex-direction:row;">
