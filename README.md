@@ -66,5 +66,4 @@ const about = {
 <a href="www.linkedin.com/in/jeferson-david-cañon" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bryancamilopineda/" height="30" width="40" /></a>
 <a href="" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/bryancamilo.pinedalopera/" height="30" width="40" /></a>
 </p>
- ![Metrics](https://metrics.lecoq.io/jeferProgramer?template=classic&base.indepth=false&base.hireable=false&config.timezone=America%2FBogota
 </div>
