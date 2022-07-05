@@ -77,9 +77,9 @@ const about = {
 
 <h3>App Videogames</h3>
 <p>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/tabla.jpg"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/nuevoprod.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/imagen.png"></a>
+  <a><img width='300px' src="https://user-images.githubusercontent.com/97969138/174117831-67bacd62-fe94-4c2d-a081-5950b627475f.png"></a>
+  <a><img width='300px' src="https://user-images.githubusercontent.com/97969138/174120878-5accfdc5-3d59-48b8-bd3f-cd6d0ebdb7f8.png"></a>
+  <a><img width='300px' src="https://user-images.githubusercontent.com/97969138/174120370-0bdddb9e-d86c-4b87-9a16-cbe496d09960.png"></a>
 </p> 
 &nbsp;
 <div style="display: flex; flex-direction:row;">
