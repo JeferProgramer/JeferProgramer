@@ -47,12 +47,15 @@
 <div style="display: flex; flex-direction:row;">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bryancamilopineda/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bryancamilopineda/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/jeferson-david-cañon" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bryancamilopineda/" height="30" width="40" /></a>
 <a href="https://fb.com/bryancamilo.pinedalopera/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/bryancamilo.pinedalopera/" height="30" width="40" /></a>
 </p>
 </div>
 
 ![Metrics](https://metrics.lecoq.io/jeferProgramer?template=classic&base.indepth=false&base.hireable=false&config.timezone=America%2FBogota)
+<h4 align="center">Visitor's :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{JeferProgramer}/count.svg" alt="bryancpineda :: Visitor's Count" /></p>
  
 <br>
 <footer align='center'><p>&copy; All Rights Reserved</p></footer>
