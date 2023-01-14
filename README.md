@@ -5,7 +5,7 @@
 </p>
 <div size='20px'>
  <h3 align="center">
-  Hola👋, Soy Jeferson Cañon ,colombiano amante de los videojuegos y la tecnología. Actualmente estoy enfocado en el desarrollo web full stack, sistemas, metodologías AGILE, transformación digital y aprender nuevas tecnologías para explotarlas. ¡¡¡Bienvenido!!!
+  Hola👋, Soy Jeferson Cañon ,colombiano amante de los videojuegos y la tecnología. Actualmente estoy enfocado en el desarrollo de software, web,mobile, metodologías AGILE, transformación digital y aprender nuevas tecnologías para explotarlas. ¡¡¡Bienvenido!!!
  </h3>
  <div align='center'>
    <img src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif" alt="full-stack" align="center"/>
