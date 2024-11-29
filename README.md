@@ -28,9 +28,7 @@ const about = {
 ```
 </div>
 
-- 🌱 Actualmente estoy aprendiendo **React Native, Java WEB, Springboot**.
-
-- 💬 Pregúntame sobre **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, OAuth, TypeScript, Sequelize, Passport , JWT**.
+- 💬 Pregúntame sobre **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, OAuth, TypeScript, Sequelize, Passport , JWT, React Native, Java WEB, Springboot**.
 
 - 📫 Cómo llegar a mí **jefer.talento.11@gmail.com**
 
